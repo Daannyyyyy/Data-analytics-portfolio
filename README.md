@@ -12,11 +12,8 @@ This portfolio showcases projects and dashboards built using Excel, Power BI, Ta
 
 ## 📊 Excel Dashboard
 - File: `Excel-Dashboard/Sales_Dashboard.xlsm`
-- Features: Dynamic charts, KPI cards, macro-enabled forms.
+- Features: Dynamic charts, KPI cards, Filters
 
-## 🧮 Macros
-- VBA Form to collect New Joinee data.
-- Shows message box with form input.
 
 ## 📈 Tableau Dashboard
 - File: `Tableau-Dashboard/Sales_Dashboard.twb`
@@ -27,11 +24,6 @@ This portfolio showcases projects and dashboards built using Excel, Power BI, Ta
 - File: `PowerBI-Dashboard/FinanceReport.pbix`
 - Visuals: Cards, Slicers, Clustered Charts
 
-## 🛢️ MySQL Project
-- File: `MySQL-Project/schema.sql` and `queries.sql`
-- Task: Join tables, filter actors by genre, generate reports
-
----
 
 ## 👨‍💻 Author
 - **Name:** Danish Roy
