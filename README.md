@@ -24,6 +24,10 @@ This portfolio showcases projects and dashboards built using Excel, Power BI, Ta
 - File: `PowerBI-Dashboard/FinanceReport.pbix`
 - Visuals: Cards, Slicers, Clustered Charts
 
+## 🛢️ MySQL Project
+- File: `SQL_queries/sql_queries.sql`
+- Visuals: Join Tables, Views, Triggers
+
 
 ## 👨‍💻 Author
 - **Name:** Danish Roy
