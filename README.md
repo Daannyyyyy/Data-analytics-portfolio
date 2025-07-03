@@ -3,7 +3,7 @@
 This portfolio showcases projects and dashboards built using Excel, Power BI, Tableau, and MySQL.
 
 ## 🔧 Tools Used:
-- **Excel (VBA, Macros)**
+- **Excel**
 - **Power BI**
 - **Tableau**
 - **MySQL**
